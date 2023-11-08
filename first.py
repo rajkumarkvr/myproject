@@ -4,3 +4,5 @@ b=20
 c=a+b
 
 print('Result:',c)
+
+print('This is new feature')
