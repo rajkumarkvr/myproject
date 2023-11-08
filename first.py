@@ -6,3 +6,7 @@ c=a+b
 print('Result:',c)
 
 print('This is new feature')
+
+
+for i in range(19):
+	print(i)
